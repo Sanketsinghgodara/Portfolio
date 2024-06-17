@@ -9,10 +9,10 @@ Welcome to my portfolio repository! This is where I showcase my projects, skills
  (https://666ffd5cbfcd3f185af66ab9--glittery-meerkat-8170da.netlify.app/)
 
 ## Skills
-- Programming Languages:c++, JavaScript, Python, etc.
-- Frontend Technologies: HTML, CSS, React, etc.
-- Backend Technologies: Node.js, Express, MongoDB, Sql,convex
-- Other Skills: Git, RESTful APIs, Agile Development
+- Programming Languages: C++, JavaScript, Python, etc.
+- Frontend Technologies: HTML, CSS, React,Nextjs etc.
+- Backend Technologies: Node.js, Express, MongoDB, Sql,Convex,Nextjs
+- Other Skills: Git, RESTful APIs, Agile Development,DSA 
 
 ## Education
 - **Btech**, From Nit Jalandhar - 2024
