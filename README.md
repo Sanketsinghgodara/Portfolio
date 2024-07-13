@@ -6,7 +6,7 @@ Welcome to my portfolio! This is where I showcase my projects, skills, and exper
  For projects, please visit all other repository .
 
 ## portfolio website
- (https://666ffd5cbfcd3f185af66ab9--glittery-meerkat-8170da.netlify.app/)
+ ( https://portfolio-six-woad-74.vercel.app/)
 
 ## Skills
 - Programming Languages: C++, JavaScript, Python, etc.
